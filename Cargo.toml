@@ -5,6 +5,7 @@ edition = "2024"
 authors = ["Adrian J. Delgado <rust@adrianjdelgado.com>"]
 description = "Convert HTML files to Typst syntax"
 repository = "https://github.com/adriandelgado/html2typst"
+readme = "README.md"
 keywords = ["html", "typst", "converter", "html2typ", "html-to-typst"]
 categories = ["text-processing", "parsing", "parser-implementations"]
 license = "MIT"
