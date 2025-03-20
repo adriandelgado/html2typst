@@ -1,7 +1,13 @@
 [package]
 name = "html2typst"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2024"
+authors = ["Adrian J. Delgado <rust@adrianjdelgado.com>"]
+description = "Convert HTML files to Typst syntax"
+repository = "https://github.com/adriandelgado/html2typst"
+keywords = ["html", "typst", "converter", "html2typ", "html-to-typst"]
+categories = ["text-processing", "parsing", "parser-implementations"]
+license = "MIT"
 
 [dependencies]
 html5ever = "0.29.1"
